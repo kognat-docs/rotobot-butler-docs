@@ -46,8 +46,8 @@ https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.
 Contribute
 ----------
 
-- Issue Tracker: github.com/rotobot-docs/rotobot_butler/issues
-- Source Code: github.com/rotobot-docs/rotobot_butler
+- Issue Tracker: https://github.com/kognat-docs/rotobot-butler-docs/issues
+- Source Code: https://github.com/kognat-docs/rotobot-butler-docs
 
 Support
 -------
