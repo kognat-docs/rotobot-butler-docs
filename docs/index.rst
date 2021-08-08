@@ -31,7 +31,7 @@ There is no need to be a machine learning expert
 
 Once the installation is complete by your systems' adminstration team, 
 using Rotobot Butler is a matter of connecting a browser to the server
-with NVIDIA GPU attached and training the networ
+with NVIDIA GPU attached and training the deep convolutional neural network
 
 Look how easy it is to use: ::
 
