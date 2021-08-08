@@ -21,6 +21,11 @@ Features
 - Create a Rotobot Butler set of trained weights for your data
 - Create a node in your OpenFX host and browse to the weights
 
+.. toctree::
+   :maxdepth: 2
+
+   groundtruth
+
 Installation
 ------------
 
@@ -41,6 +46,7 @@ NVIDIA Docker.
 
 Follow the guides found here
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html
+
 
 
 Contribute
