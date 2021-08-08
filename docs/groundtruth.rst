@@ -72,7 +72,7 @@ You need to ensure the following patterns:
 Data Concepts
 -------------
 
-Machine leaning is a big field but the dot points below will help you out
+Machine learning is a big field but the dot points below will help you out
 
 
     - You can choose anything as a class for a video layer: dog, cat, tree, car train, shirt
