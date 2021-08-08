@@ -62,7 +62,7 @@ Data Patterns
 You need to ensure the following patterns:
 
     - All images are 0 - 255 ( 8 bit per pixel) sRGB colour JPEG or PNG files
-    - All images are the same between the label and the image
+    - All images are the same resolution and line up between the label and the image
     - There are many images at least 40 images
     - Each pair of images must be the same size, but different pairs may be different sizes
     - Each of the labels must use the same colour to indicate the label
